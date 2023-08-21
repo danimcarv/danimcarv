@@ -9,7 +9,7 @@ Amazon Web Services / Microsoft Azure / Java Middleware / Agile practices\
 Unix / Linux / Batch processing (Broadcom Automic UC4 Automation)
 
 ### Some skills I'm still studying and I should have soon:
-HTML / CSS / Javascript / TypeScript / Angular / React
+HTML / CSS / Javascript / React / TypeScript / Angular
 
 ### <a href="https://www.linkedin.com/in/daniel-m-carvalho/">Click here to visit my LinkedIn.</a>
 
