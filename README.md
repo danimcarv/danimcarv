@@ -7,6 +7,7 @@
 ### Some skills I currently have:
 Amazon Web Services / Microsoft Azure / Java Middleware / Agile practices\
 Unix / Linux / Batch processing (Broadcom Automic UC4 Automation)
+Site Reliability Engineering tools and concepts
 
 ### Some skills I'm still studying and I should have soon:
 HTML / CSS / Python / Javascript / React / TypeScript / Angular
