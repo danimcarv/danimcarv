@@ -10,7 +10,7 @@ Unix / Linux / Batch processing (Broadcom Automic UC4 Automation)\
 Site Reliability Engineering tools and concepts
 
 ### Some skills I'm still studying and I should have soon:
-HTML / CSS / Python / Javascript / React / TypeScript / Angular
+HTML / CSS / Python / Javascript / TypeScript / React / Angular
 
 ### <a href="https://www.linkedin.com/in/daniel-m-carvalho/">Click here to visit my LinkedIn.</a>
 
