@@ -5,7 +5,7 @@
 ### My name is Daniel, I'm an IT Insfrastructure professional. I'm currently just starting my studies to become a software developer in a near future.
 
 ### Some skills I currently have:
-Amazon Web Services / Microsoft Azure / Java Middleware / Agile practices\
+Amazon Web Services (certified) / Microsoft Azure (certified) / Java Middleware / Agile practices\
 Unix / Linux / Batch processing (Broadcom Automic UC4 Automation)\
 Site Reliability Engineering tools and concepts
 
