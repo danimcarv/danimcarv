@@ -9,7 +9,7 @@ Amazon Web Services (certified) / Microsoft Azure (certified) / Java Middleware 
 Unix / Linux / Batch processing (Broadcom Automic UC4 Automation)\
 Windows Server / VMware\
 Site Reliability Engineering tools and concepts\
-Python / HTML / CSS
+C / Python / HTML / CSS
 
 ### Some skills I'm still studying and I'll have soon:
 Javascript / TypeScript / React / Angular
