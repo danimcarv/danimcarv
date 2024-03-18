@@ -2,7 +2,7 @@
 
 ## Welcome to my profile.
 
-### My name is Daniel, I'm an IT Insfrastructure professional. I'm currently just starting my studies to become a software developer in a near future.
+### My name is Daniel, I'm an IT Insfrastructure professional. I'm currently studying to become a software developer in a near future.
 
 ### Some skills I currently have:
 Amazon Web Services (certified) / Microsoft Azure (certified) / Java Middleware / Agile practices\
