@@ -11,8 +11,8 @@ Windows Server / VMware\
 Site Reliability Engineering tools and concepts\
 C / Python / HTML / CSS
 
-### Some skills I'm still studying and I'll have soon:
-Javascript / TypeScript / React / Angular
+### Some skills I'm still improving my knowledges in:
+Javascript / TypeScript / React / Angular / DevOps concepts and tools
 
 ### <a href="https://www.linkedin.com/in/daniel-m-carvalho/">Click here to visit my LinkedIn.</a>
 
